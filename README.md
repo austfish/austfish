@@ -13,7 +13,7 @@
 ## Other
 |  公众号   | Blog  |CSDN |简书|
 |  ----  | ----  | --- | --- |
-| [Fisher的安全日记]()|[点我直达](http://austfish.cn/)| [点我直达](https://blog.csdn.net/qq_33362294)|[点我直达](https://www.jianshu.com/u/5de02cdeb843)
+| Fisher的安全日记|[点我直达](http://austfish.cn/)| [点我直达](https://blog.csdn.net/qq_33362294)|[点我直达](https://www.jianshu.com/u/5de02cdeb843)
 
 ## Github stats
 ![](https://github-readme-stats.vercel.app/api?username=austfish&theme=dark)
