@@ -1,16 +1,22 @@
-### Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=austfish)
-<!--
-**austfish/austfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- Red Team Security Researcher.
+- Core members of ADLab.
+- 📫 How to reach me: austfish@163.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 关于我
+
+- 红队攻防技术研究
+- ADLab 团队核心成员
+- 📫 联系我: austfish@163.com
+
+## Github stats
+![](https://github-readme-stats.vercel.app/api?username=austfish&theme=dark)
+
+## 学习路径
+- 201901-201906 漏洞知识库/蜜罐
+
+- 201907-202006 资产探测/指纹识别
+
+- 202007-now 自动化渗透/半自动化渗透
+
