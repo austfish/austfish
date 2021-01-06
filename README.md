@@ -16,7 +16,7 @@
 | Fisher的安全日记|[点我直达](http://austfish.cn/)| [点我直达](https://blog.csdn.net/qq_33362294)|[点我直达](https://www.jianshu.com/u/5de02cdeb843)
 
 ## Github stats
-![](https://github-readme-stats.vercel.app/api?username=austfish&theme=dark)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=austfish&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ## 学习路径
 - 201901-201906 漏洞知识库/蜜罐
