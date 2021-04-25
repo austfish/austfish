@@ -7,7 +7,7 @@
 ## 关于我
 
 - 红队攻防技术研究
-- ADLab 团队核心成员
+- ADLab 团队成员
 - 📫 联系我: austfish@163.com
 
 ## Other
